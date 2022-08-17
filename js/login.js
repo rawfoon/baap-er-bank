@@ -19,6 +19,6 @@ document.getElementById('btn-submit').addEventListener('click', function() {
         window.location.href = 'bank.html'
 
     } else {
-        alert('Tui password vulegeso. Toke tejjo sontan ghosona korlam!!')
+        alert('Tui password vulegesos. Toke tejjo sontan ghosona korlam!!')
     }
 })
