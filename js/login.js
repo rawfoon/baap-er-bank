@@ -15,7 +15,7 @@ document.getElementById('btn-submit').addEventListener('click', function() {
     const password = passwordField.value
 
     //  do not verify email and password on the client side
-    if (email === 'mgrawfoon@gmail.com' && password === 'secret') {
+    if (email === 'abc@email.com' && password === 'secret') {
         window.location.href = 'bank.html'
 
     } else {
